@@ -84,8 +84,6 @@ namespace QLLKDienTu
                 MessageBox.Show("Mã số " + lk.MaLK + " đã tồn tại", "thông báo");
             }
         }
-       
-      
     }
 }
 
