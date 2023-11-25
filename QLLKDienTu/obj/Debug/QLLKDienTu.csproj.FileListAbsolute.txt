@@ -1,0 +1,22 @@
+D:\Đồ án ăn cắp\QLLKDienTu\QLLKDienTu\bin\Debug\QLLKDienTu.exe.config
+D:\Đồ án ăn cắp\QLLKDienTu\QLLKDienTu\bin\Debug\QLLKDienTu.exe
+D:\Đồ án ăn cắp\QLLKDienTu\QLLKDienTu\bin\Debug\QLLKDienTu.pdb
+D:\Đồ án ăn cắp\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.csproj.AssemblyReference.cache
+D:\Đồ án ăn cắp\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.Form1.resources
+D:\Đồ án ăn cắp\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.Properties.Resources.resources
+D:\Đồ án ăn cắp\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.csproj.GenerateResource.cache
+D:\Đồ án ăn cắp\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.csproj.CoreCompileInputs.cache
+D:\Đồ án ăn cắp\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.exe
+D:\Đồ án ăn cắp\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.pdb
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\bin\Debug\QLLKDienTu.exe.config
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\bin\Debug\QLLKDienTu.exe
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\bin\Debug\QLLKDienTu.pdb
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.csproj.AssemblyReference.cache
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.Properties.Resources.resources
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.csproj.GenerateResource.cache
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.csproj.CoreCompileInputs.cache
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.exe
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.pdb
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FDangKy.resources
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FDangNhap.resources
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FQuanLy.resources

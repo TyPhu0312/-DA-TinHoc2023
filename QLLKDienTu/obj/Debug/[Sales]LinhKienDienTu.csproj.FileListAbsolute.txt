@@ -1,0 +1,85 @@
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\bin\Debug\QLLKDienTu.exe.config
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\bin\Debug\QLLKDienTu.exe
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\bin\Debug\QLLKDienTu.pdb
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\obj\Debug\[Sales]LinhKienDienTu.csproj.AssemblyReference.cache
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FDangKy.resources
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FDangNhap.resources
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FQLTaiKhoan.resources
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FQuanLy.resources
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.Properties.Resources.resources
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\obj\Debug\[Sales]LinhKienDienTu.csproj.GenerateResource.cache
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\obj\Debug\[Sales]LinhKienDienTu.csproj.CoreCompileInputs.cache
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.exe
+D:\Code\[DA]TinHoc_2023\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.pdb
+D:\LE TRAN TRONG PHUC_HK_I_3\QLLKDienTu\QLLKDienTu\bin\Debug\QLLKDienTu.exe.config
+D:\LE TRAN TRONG PHUC_HK_I_3\QLLKDienTu\QLLKDienTu\bin\Debug\QLLKDienTu.exe
+D:\LE TRAN TRONG PHUC_HK_I_3\QLLKDienTu\QLLKDienTu\bin\Debug\QLLKDienTu.pdb
+D:\LE TRAN TRONG PHUC_HK_I_3\QLLKDienTu\QLLKDienTu\obj\Debug\[Sales]LinhKienDienTu.csproj.AssemblyReference.cache
+D:\LE TRAN TRONG PHUC_HK_I_3\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FDangKy.resources
+D:\LE TRAN TRONG PHUC_HK_I_3\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FDangNhap.resources
+D:\LE TRAN TRONG PHUC_HK_I_3\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FQLLinhKien.resources
+D:\LE TRAN TRONG PHUC_HK_I_3\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FQLTaiKhoan.resources
+D:\LE TRAN TRONG PHUC_HK_I_3\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FQuanLy.resources
+D:\LE TRAN TRONG PHUC_HK_I_3\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.Properties.Resources.resources
+D:\LE TRAN TRONG PHUC_HK_I_3\QLLKDienTu\QLLKDienTu\obj\Debug\[Sales]LinhKienDienTu.csproj.GenerateResource.cache
+D:\LE TRAN TRONG PHUC_HK_I_3\QLLKDienTu\QLLKDienTu\obj\Debug\[Sales]LinhKienDienTu.csproj.CoreCompileInputs.cache
+D:\LE TRAN TRONG PHUC_HK_I_3\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.exe
+D:\LE TRAN TRONG PHUC_HK_I_3\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.pdb
+D:\Code\[DA]TinHoc_2023\Swap\QLLKDienTu\QLLKDienTu\bin\Debug\QLLKDienTu.exe.config
+D:\Code\[DA]TinHoc_2023\Swap\QLLKDienTu\QLLKDienTu\bin\Debug\QLLKDienTu.exe
+D:\Code\[DA]TinHoc_2023\Swap\QLLKDienTu\QLLKDienTu\bin\Debug\QLLKDienTu.pdb
+D:\Code\[DA]TinHoc_2023\Swap\QLLKDienTu\QLLKDienTu\obj\Debug\[Sales]LinhKienDienTu.csproj.AssemblyReference.cache
+D:\Code\[DA]TinHoc_2023\Swap\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FDangKy.resources
+D:\Code\[DA]TinHoc_2023\Swap\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FDangNhap.resources
+D:\Code\[DA]TinHoc_2023\Swap\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FQLLinhKien.resources
+D:\Code\[DA]TinHoc_2023\Swap\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FQLTaiKhoan.resources
+D:\Code\[DA]TinHoc_2023\Swap\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FQuanLy.resources
+D:\Code\[DA]TinHoc_2023\Swap\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.Properties.Resources.resources
+D:\Code\[DA]TinHoc_2023\Swap\QLLKDienTu\QLLKDienTu\obj\Debug\[Sales]LinhKienDienTu.csproj.GenerateResource.cache
+D:\Code\[DA]TinHoc_2023\Swap\QLLKDienTu\QLLKDienTu\obj\Debug\[Sales]LinhKienDienTu.csproj.CoreCompileInputs.cache
+D:\Code\[DA]TinHoc_2023\Swap\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.exe
+D:\Code\[DA]TinHoc_2023\Swap\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.pdb
+D:\Code\[DA]TinHoc_2023\Swap\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FMain.resources
+D:\Code\[DA]TinHoc_2023\Swap\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FKH.resources
+D:\Code\[DA]TinHoc_2023\Swap\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FQLKhachHang.resources
+D:\LE TRAN TRONG PHUC_HK_I_3\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FGioHang.resources
+D:\LE TRAN TRONG PHUC_HK_I_3\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FKH.resources
+D:\LE TRAN TRONG PHUC_HK_I_3\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FQLKhachHang.resources
+D:\LE TRAN TRONG PHUC_HK_I_3\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FMain.resources
+D:\Code\[DA]TinHoc_2023\[Sales]LinhKienDienTu\QLLKDienTu\QLLKDienTu\bin\Debug\QLLKDienTu.exe.config
+D:\Code\[DA]TinHoc_2023\[Sales]LinhKienDienTu\QLLKDienTu\QLLKDienTu\bin\Debug\QLLKDienTu.exe
+D:\Code\[DA]TinHoc_2023\[Sales]LinhKienDienTu\QLLKDienTu\QLLKDienTu\bin\Debug\QLLKDienTu.pdb
+D:\Code\[DA]TinHoc_2023\[Sales]LinhKienDienTu\QLLKDienTu\QLLKDienTu\obj\Debug\[Sales]LinhKienDienTu.csproj.AssemblyReference.cache
+D:\Code\[DA]TinHoc_2023\[Sales]LinhKienDienTu\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FDangKy.resources
+D:\Code\[DA]TinHoc_2023\[Sales]LinhKienDienTu\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FDangNhap.resources
+D:\Code\[DA]TinHoc_2023\[Sales]LinhKienDienTu\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FGioHang.resources
+D:\Code\[DA]TinHoc_2023\[Sales]LinhKienDienTu\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FKH.resources
+D:\Code\[DA]TinHoc_2023\[Sales]LinhKienDienTu\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FQLKhachHang.resources
+D:\Code\[DA]TinHoc_2023\[Sales]LinhKienDienTu\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FMain.resources
+D:\Code\[DA]TinHoc_2023\[Sales]LinhKienDienTu\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FQLLinhKien.resources
+D:\Code\[DA]TinHoc_2023\[Sales]LinhKienDienTu\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FQLTaiKhoan.resources
+D:\Code\[DA]TinHoc_2023\[Sales]LinhKienDienTu\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FQuanLy.resources
+D:\Code\[DA]TinHoc_2023\[Sales]LinhKienDienTu\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.Properties.Resources.resources
+D:\Code\[DA]TinHoc_2023\[Sales]LinhKienDienTu\QLLKDienTu\QLLKDienTu\obj\Debug\[Sales]LinhKienDienTu.csproj.GenerateResource.cache
+D:\Code\[DA]TinHoc_2023\[Sales]LinhKienDienTu\QLLKDienTu\QLLKDienTu\obj\Debug\[Sales]LinhKienDienTu.csproj.CoreCompileInputs.cache
+D:\Code\[DA]TinHoc_2023\[Sales]LinhKienDienTu\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.exe
+D:\Code\[DA]TinHoc_2023\[Sales]LinhKienDienTu\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.pdb
+D:\Đồ án ăn cắp\[Sales]LINHKIENDIENTU\QLLKDienTu\QLLKDienTu\bin\Debug\QLLKDienTu.exe.config
+D:\Đồ án ăn cắp\[Sales]LINHKIENDIENTU\QLLKDienTu\QLLKDienTu\bin\Debug\QLLKDienTu.exe
+D:\Đồ án ăn cắp\[Sales]LINHKIENDIENTU\QLLKDienTu\QLLKDienTu\bin\Debug\QLLKDienTu.pdb
+D:\Đồ án ăn cắp\[Sales]LINHKIENDIENTU\QLLKDienTu\QLLKDienTu\obj\Debug\[Sales]LinhKienDienTu.csproj.AssemblyReference.cache
+D:\Đồ án ăn cắp\[Sales]LINHKIENDIENTU\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FDangKy.resources
+D:\Đồ án ăn cắp\[Sales]LINHKIENDIENTU\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FDangNhap.resources
+D:\Đồ án ăn cắp\[Sales]LINHKIENDIENTU\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FGioHang.resources
+D:\Đồ án ăn cắp\[Sales]LINHKIENDIENTU\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FKH.resources
+D:\Đồ án ăn cắp\[Sales]LINHKIENDIENTU\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FQLKhachHang.resources
+D:\Đồ án ăn cắp\[Sales]LINHKIENDIENTU\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FMain.resources
+D:\Đồ án ăn cắp\[Sales]LINHKIENDIENTU\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FQLLinhKien.resources
+D:\Đồ án ăn cắp\[Sales]LINHKIENDIENTU\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FQLTaiKhoan.resources
+D:\Đồ án ăn cắp\[Sales]LINHKIENDIENTU\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FQuanLy.resources
+D:\Đồ án ăn cắp\[Sales]LINHKIENDIENTU\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.Properties.Resources.resources
+D:\Đồ án ăn cắp\[Sales]LINHKIENDIENTU\QLLKDienTu\QLLKDienTu\obj\Debug\[Sales]LinhKienDienTu.csproj.GenerateResource.cache
+D:\Đồ án ăn cắp\[Sales]LINHKIENDIENTU\QLLKDienTu\QLLKDienTu\obj\Debug\[Sales]LinhKienDienTu.csproj.CoreCompileInputs.cache
+D:\Đồ án ăn cắp\[Sales]LINHKIENDIENTU\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.exe
+D:\Đồ án ăn cắp\[Sales]LINHKIENDIENTU\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.pdb
+D:\Code\[DA]TinHoc_2023\[Sales]LinhKienDienTu\QLLKDienTu\QLLKDienTu\obj\Debug\QLLKDienTu.FHoaDon.resources
