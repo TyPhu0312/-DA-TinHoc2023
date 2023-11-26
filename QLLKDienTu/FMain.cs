@@ -70,6 +70,7 @@ namespace QLLKDienTu
             fhd.Show();
             this.Close();
         }
+        // test nhẹ ở đây
 
        
 
